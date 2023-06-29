@@ -1,0 +1,29 @@
+
+body {
+  font-family: 'Source Code Pro', monospace;
+  background-color: black;
+  color: white;
+}
+
+
+.image{
+  text-align: center;
+  margin-top: 5%;
+  margin-bottom: 5%;
+ 
+}
+
+.letter-container{
+  width: 50%;
+  margin: 0 auto;
+  text-align:justify;
+}
+
+.starter {
+  text-align: center;
+}
+
+.ily {
+  text-align: center;
+}
+
